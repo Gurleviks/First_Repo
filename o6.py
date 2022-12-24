@@ -1,3 +1,3 @@
 brands = ["Adidas", "Nike"]
 
-print("Nike" in brands) # Should print True
+print("Nike" in brands)
