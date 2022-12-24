@@ -1,8 +1,11 @@
-num1 = 58
-print(type(num1))
-
-num2 = 5.8
-print(type(num2))
-
-num3 = 5 + 8j
-print(type(num3))
+print(type("Hello World"))
+print(type(True))
+print(type(False))
+print(type(33))
+print(type(24.5))
+print(type(4+1j))
+print(type(4j))
+print(type(["lion", "monkey", "dog","fish"]))
+print(type(("lion", "monkey", "dog","fish")))
+print(type({"name" : "John", "surname" : "Doe", "age":22}))
+print(type({"lion", "monkey", "dog","fish"}))
