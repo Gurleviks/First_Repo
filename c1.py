@@ -1,4 +1,7 @@
-num1=int(input("335"))
-num2=int(input("66 "))
-if(num1>num2): print(num1)
-elif(num2>num1): print(num2)
+num1 = 335
+num2 = 66
+
+if (num1>num2):
+    print(f"{num1} is greater than {num2}")
+else:
+    print(f"{num1} is not greater than {num2}")
