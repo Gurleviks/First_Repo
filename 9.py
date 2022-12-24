@@ -1,4 +1,4 @@
-x = 7
-y = 14
-x=y
-print(x)
+a = 12
+b = 'Hello'
+a=b
+print(a, b)
