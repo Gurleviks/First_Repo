@@ -1,2 +1,3 @@
-Error = "I've got an error!"
-print(Error)
+"Hi,my name is John Doe"
+
+'python'
