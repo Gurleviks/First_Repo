@@ -1,4 +1,4 @@
-name = 'Wololo'
-age = 58
-hello = 'Hello'
-print(hello, name, age)
+name = 'Mike'
+age = 30
+
+print(f"Hello, {name}. You are {age}")
