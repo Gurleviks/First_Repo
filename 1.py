@@ -1,3 +1,5 @@
-firstName = 'Mario'
-type(firstName)
-print(firstName)
+i = 1
+while i < 6:
+    print("*" * i)
+    i = i + 1
+
